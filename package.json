@@ -1,0 +1,25 @@
+{
+  "name": "netatmo2AirVantage",
+  "version": "0.0.1",
+  "description": "Synchronize Netatmo Cloud data with AirVantage Cloud",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "netatmo",
+    "airvantage",
+    "cloud",
+    "synchronize"
+  ],
+  "author": "Sebastien Moran",
+  "license": "BSD",
+  "dependencies": {
+    "async": "~0.2.10",
+    "underscore": "~1.5.2",
+    "request": "~2.33.0",
+    "moment": "~2.5.1",
+    "nconf": "~0.6.9"
+  }
+}

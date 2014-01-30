@@ -1,0 +1,23 @@
+{
+    "airvantage": {
+        "url": "https://na.airvantage.net",
+        "clientId": "yourClientId",
+        "clientSecret": "yourClientSecret",
+        "email": "yourEmail",
+        "password": "yourPassword",
+        "system": {
+            "uid": "yourSystemUID",
+            "commId": "yourSystemCommunicationID",
+            "commPassword": "yourSystemCommunicationPassword",
+            "indoorTempPath": "home.indoor.temperature"
+        }
+    },
+    "netatmo": {
+        "clientId": "yourClientId",
+        "clientSecret": "yourClientSecret",
+        "email": "yourEmail",
+        "password": "yourPassword",
+        "deviceId": "yourDeviceId"
+    },
+    "synchroInterval": 900 // In seconds. 15 minutes 
+}
