@@ -17,7 +17,8 @@
         "clientSecret": "yourClientSecret",
         "email": "yourEmail",
         "password": "yourPassword",
-        "deviceId": "yourDeviceId"
+        "deviceId": "yourDeviceId",
+        "outdoorModuleId" : "yourOutdoorModuleId"
     },
     "synchroInterval": 900 // In seconds. 15 minutes 
 }
