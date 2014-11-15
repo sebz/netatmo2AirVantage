@@ -18,7 +18,8 @@
         "email": "yourEmail",
         "password": "yourPassword",
         "deviceId": "yourDeviceId",
-        "outdoorModuleId" : "yourOutdoorModuleId"
+        "outdoorModuleId" : "yourOutdoorModuleId",
+        "indoorModule2Id": "additionalModuleId"
     },
     "synchroInterval": 900 // In seconds. 15 minutes 
 }
